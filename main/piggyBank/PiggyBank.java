@@ -1,4 +1,4 @@
-package main.piggyBank;
+package piggyBank;
 import java.text.DecimalFormat;
 
 public class PiggyBank {
